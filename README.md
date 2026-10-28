@@ -8,5 +8,6 @@ Sharing one agent skill a day.
 ## Skills
 
 - [skill-trigger-test](skills/skill-trigger-test/SKILL.md): Test whether an agent skill actually triggers, with two phrasings.
+- [cv-interview-prep](skills/cv-interview-prep/SKILL.md): Tailor a CV to a job ad, write a cover letter, and prepare for the interview.
 
 X: @HMarcoGao
