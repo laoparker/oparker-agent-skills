@@ -10,5 +10,6 @@ Sharing one agent skill a day.
 - [skill-trigger-test](skills/skill-trigger-test/SKILL.md): Test whether an agent skill actually triggers, with two phrasings.
 - [cv-interview-prep](skills/cv-interview-prep/SKILL.md): Tailor a CV to a job ad, write a cover letter, and prepare for the interview.
 - [money-snapshot](skills/money-snapshot/SKILL.md): Make a money snapshot, a zero-based budget, and a debt payoff order.
+- [health-doc-plain](skills/health-doc-plain/SKILL.md): Translate a health report into plain language and list questions to take to a doctor, with no diagnosis.
 
 X: @HMarcoGao
